@@ -5,7 +5,7 @@ const NavBar = () => {
 
     return (
         <div>
-            <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+            <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/"><div id="logo">
                         KalTak
